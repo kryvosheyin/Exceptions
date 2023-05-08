@@ -1,2 +1,5 @@
-package exceptions;public class WrongAccountException {
+package exceptions;
+
+public class WrongAccountException extends Exception{
+
 }

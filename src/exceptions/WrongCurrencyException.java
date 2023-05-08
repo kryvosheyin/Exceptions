@@ -1,2 +1,4 @@
-package exceptions;public class WrongCurrencyException {
+package exceptions;
+
+public class WrongCurrencyException extends Exception{
 }

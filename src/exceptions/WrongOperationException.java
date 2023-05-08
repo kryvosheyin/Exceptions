@@ -1,2 +1,4 @@
-package exceptions;public class WrongOperationException {
+package exceptions;
+
+public class WrongOperationException extends Exception{
 }
